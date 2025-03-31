@@ -15,3 +15,9 @@ Rodar no powerShell Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Loc
 para Abrir web npx expo install react-dom react-native-web @expo/metro-runtime
 
 Aulas de desenvolvimento mobile 
+
+npm install @react-navigation/native
+
+npx expo install react-native-screens react-native-safe-area-context
+
+npm install @react-navigation/native-stack
